@@ -1,5 +1,6 @@
 # Election_Analysis
 Python
+
 Overview of election audit
 In this analysis we will find the voter turnout for each county. We will then calculate the percentage of votes from each county out of the total count. Lastly, we will figure out the county with the highest turnout. After doing this we will be able to determine the winner of the election based on the popular vote.
 Election audit results(bulleted list)
